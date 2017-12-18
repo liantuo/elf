@@ -13,6 +13,7 @@ Please select your elf system and fill in the version number
 -->
 - [ ] Win
 - [ ] Android
+
 版本号 V
 
 ### 代理商ID Agent ID
@@ -47,9 +48,13 @@ BUG重现步骤或您的功能建议
 ### 期望结果 expected results
 <!--
 If this Issue Type is BUG, please describe your expected results
+如果Issue是bug，请填写您的期望结果
 -->
+
 ### 实际结果 actual results
 <!--
 If this Issue Type is BUG, please describe the actual results
+如果Issue是bug，请填写实际结果
 -->
+
 ### #补充说明 Other
