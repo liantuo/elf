@@ -16,6 +16,15 @@ Please select your elf system and fill in the version number
 
 版本号 V
 
+### 收银软件版本 POS version
+<!--
+Please select your POS system and fill in the version number
+请选择您的收银系统 并填写版本号
+-->
+系统名称:
+
+版本号:
+
 ### 代理商ID Agent ID
 <!--
 If you are an agent, please fill in your agent ID, which is convenient for us to contact you
