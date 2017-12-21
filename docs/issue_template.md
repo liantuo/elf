@@ -13,6 +13,7 @@ Please select your elf system and fill in the version number
 -->
 - [ ] Win
 - [ ] Android
+- [ ] 云后台
 
 版本号 V
 
@@ -40,7 +41,7 @@ If you are a merchant, please fill out your core ID, which is convenient for us 
 ### 环境
 <!--
 Describe your system environment in detail, such as the operating system, the dot Net version, the screen resolution, and so on
-详细描述您的操作系统版本，.net版本，以及屏幕分辨率等
+详细描述您的操作系统版本，.net版本，浏览器版本(云平台填写)，以及屏幕分辨率等
 -->
 
 ### 重现步骤&建议
