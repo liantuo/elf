@@ -6,7 +6,7 @@ Please select your Issue type，Bug or Feature
 - [ ] BUG
 - [ ] Feature
 
-### 小精灵版本 elf version
+### 小精灵版本及配置 elf version
 <!--
 Please select your elf system and fill in the version number
 请选择您的小精灵系统 并填写版本号
@@ -17,6 +17,15 @@ Please select your elf system and fill in the version number
 
 版本号 V
 
+### 金额读取方式
+
+- [ ] 串口客显
+- [ ] 虚拟客显
+- [ ] 其他串口
+- [ ] OPOS客显
+- [ ] 黑科技模式
+- [ ] 图像识别
+
 ### 收银软件版本 POS version
 <!--
 Please select your POS system and fill in the version number
@@ -26,23 +35,36 @@ Please select your POS system and fill in the version number
 
 版本号:
 
-### 代理商ID Agent ID
+### 代理商ID Agent ID &名称
 <!--
 If you are an agent, please fill in your agent ID, which is convenient for us to contact you
-如果您是代理商，请填写您的代理商ID，方便我们与您联系
+如果您是代理商，请填写您的代理商ID或名称方便我们与您联系
 -->
+代理商ID：
+
+代理商名称：
 
 ### 商户/门店ID
 <!--
 If you are a merchant, please fill out your core ID, which is convenient for us to contact you.
-如果您是商户，请填写您的核心ID，方便我们与您联系
+如果您是商户，请填写您的核心或者门店的ID或名称，方便我们与您联系
 -->
+核心ID/名称：
+
+门店ID/名称：
 
 ### 环境
 <!--
 Describe your system environment in detail, such as the operating system, the dot Net version, the screen resolution, and so on
 详细描述您的操作系统版本，.net版本，浏览器版本(云平台填写)，以及屏幕分辨率等
 -->
+操作系统版本：
+
+.net版本：
+
+浏览器版本：
+
+屏幕分辨率：
 
 ### 重现步骤&建议
 <!--
